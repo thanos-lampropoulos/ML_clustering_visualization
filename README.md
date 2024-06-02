@@ -8,9 +8,9 @@ This Python function facilitates the visualization of clustering after applying 
 
 ## How to Install and Run the Project
 
-    The function is written in Python 3.
+- The function is written in Python 3.
 
-    All dependencies are included in the .py file.
+- All dependencies are included in the .py file.
 
 ## Credits
 
