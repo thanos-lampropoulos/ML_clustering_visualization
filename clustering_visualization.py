@@ -1,6 +1,15 @@
 # this code is meant to facilitate visualization after applying clustering to a pandas data frame
 # before using this code, make sure that the clusters are in the last column of your pandas data frame
 
+#########
+# importing all necessary modules
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+from math import ceil
+#########
+
 df_for_visualization = many_songs_df.copy()
 
 number_fig_columns = 2 # arbitrarily chosen
