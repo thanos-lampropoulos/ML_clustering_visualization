@@ -6,7 +6,7 @@ ML_clustering_visualization
 
 This Python function facilitates the visualization of clustering after applying unsupervised ML algorithms to a Pandas data frame. 
 
-## How to Install and Run the Project
+## How to Install and run the Project
 
 - The function is written in Python 3.
 
